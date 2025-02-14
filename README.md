@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Genesis A. Maraya</h1>
-<h3 align="center">A passionate student learning Frontend and WebDev</h3>
+
+<h3>A passionate student learning Frontend and WebDev</h3>
 
 - 🌱 I’m currently learning **Frontend and WebDev**
 
