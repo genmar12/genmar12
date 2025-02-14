@@ -1,4 +1,4 @@
-
+<h1>Still Learning some Sh*t</h1>
 <h3>A passionate student learning Frontend and WebDev</h3>
 
 - 🌱 I’m currently learning **Frontend and WebDev**
