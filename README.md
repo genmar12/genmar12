@@ -1,11 +1,4 @@
 <h1>Still Learning some...</h1>
-<h3>A passionate student learning Frontend and WebDev</h3>
-
-- 🌱 I’m currently learning **Frontend and WebDev**
-
-- 📫 How to reach me **genesismaraya6@gmail.com**
-
-- ⚡ Fun fact **I am a serious person when it come to education**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
